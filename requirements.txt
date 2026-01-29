@@ -1,3 +1,10 @@
+# Streamlit Cloud için AlphaGenome SDK kurulumu
+# Bu dosya requirements.txt ile birlikte kullanılır
+
+# Git'ten yüklenecek paketler
+git+https://github.com/google-deepmind/alphagenome.git
+
+# Diğer bağımlılıklar
 streamlit>=1.30.0
 matplotlib>=3.7.0
 numpy>=1.24.0

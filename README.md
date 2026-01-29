@@ -13,6 +13,10 @@
 
 **Kollektif bilime inanıyoruz - katkıda bulunun!**
 
+🚀 **[Demo Uygulamayı Dene / Try the Demo](https://alphagenomeui-bvguhenmuqvjnh2brvrjyh.streamlit.app/)**
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bbc_h)
+
 </div>
 
 ---
@@ -39,12 +43,18 @@
 
 # 🚀 Hızlı Başlangıç / Quick Start
 
-## Gereksinimler / Requirements
+## Online Demo
+
+👉 **[https://alphagenomeui-bvguhenmuqvjnh2brvrjyh.streamlit.app/](https://alphagenomeui-bvguhenmuqvjnh2brvrjyh.streamlit.app/)**
+
+## Yerel Kurulum / Local Installation
+
+### Gereksinimler / Requirements
 
 - **Python 3.10+** (Zorunlu / Required)
 - AlphaGenome API Anahtarı / API Key ([buradan alın / get here](https://deepmind.google.com/science/alphagenome))
 
-## Kurulum / Installation
+### Kurulum / Installation
 
 ```bash
 # 1. Repo'yu klonlayın / Clone the repo
@@ -113,6 +123,8 @@ Bu proje bilimin gelişimini hızlandırmak için açık kaynak olarak sunulmuş
 ## 👨‍💻 Geliştirici / Developer
 
 **Arş. Gör. Hakkı Halil BABACAN**
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bbc_h)
 
 ---
 
